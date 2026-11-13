@@ -32,7 +32,7 @@ jobs:
       -  name: Configurar SDK Android oficial
           uses: android-actions/setup-android@v4
           with:
-          packages: platform-tools
+            packages: platform-tools
       - name: Instalar Build Tools e API Android
         run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
       - name: Compilar APK com Android Gradle Plugin
