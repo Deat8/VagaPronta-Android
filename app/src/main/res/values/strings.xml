@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">Lê somente os controles visíveis do Bookker e procura vagas quando você ativa a busca. Não acessa senhas nem tokens.</string>
+</resources>

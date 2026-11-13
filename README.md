@@ -1,1 +1,0 @@
-# VagaPronta-Android
